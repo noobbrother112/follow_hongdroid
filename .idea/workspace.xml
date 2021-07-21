@@ -28,9 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2994b5bd-6963-442e-80b6-ffa382380398" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/android_workout.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/android_workout.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practioce/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practioce/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practioce/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntentExample/app/src/main/java/com/koreait/intentexample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntentExample/app/src/main/java/com/koreait/intentexample/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/practioce/app/src/main" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NaviExample" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -102,10 +100,10 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3247" y="389" width="549" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1626493341447" />
-    <state x="3170" y="261" key="FileChooserDialogImpl" timestamp="1626493563273">
+    <state x="3170" y="261" key="FileChooserDialogImpl" timestamp="1626826577158">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state x="3170" y="261" key="FileChooserDialogImpl/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1626493563273" />
+    <state x="3170" y="261" key="FileChooserDialogImpl/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1626826577158" />
     <state x="3112" y="253" key="Vcs.Push.Dialog.v2" timestamp="1626492867220">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
