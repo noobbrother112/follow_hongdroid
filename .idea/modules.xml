@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/android_workout.iml" filepath="$PROJECT_DIR$/.idea/android_workout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomNavi.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomNavi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CustomNavi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CustomNavi.app.iml" />
     </modules>
   </component>
 </project>
