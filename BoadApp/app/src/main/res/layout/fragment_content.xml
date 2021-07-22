@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:text="제목 :"
+            android:textSize="20sp"/>
+        <EditText
+            android:id="@+id/te_content_title"
+            android:layout_weight="9"
+            android:layout_width="0dp"
+            android:layout_height="50dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:text="작성자 :"
+            android:textSize="20sp"/>
+        <EditText
+            android:id="@+id/te_content_writer"
+            android:layout_weight="9"
+            android:layout_width="0dp"
+            android:layout_height="50dp"/>
+    </LinearLayout>
+    <EditText
+        android:id="@+id/te_content_content"
+        android:inputType="textMultiLine"
+        android:lines="20"
+        android:layout_width="match_parent"
+        android:layout_margin="20dp"
+        android:layout_weight="8"
+        android:layout_height="0dp"
+        android:hint="내용을 입력 해 주세요"
+        android:gravity="top"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:layout_weight="2">
+        <Button
+            android:id="@+id/btn_content_list"
+            android:text="목록"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/btn_content_commit"
+            android:text="등록"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/btn_content_delete"
+            android:text="삭제"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</LinearLayout>
