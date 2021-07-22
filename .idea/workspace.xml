@@ -1,36 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="38b43714-dc84-4c96-be85-303c871ab8ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/android_workout.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="38b43714-dc84-4c96-be85-303c871ab8ae" name="Default Changelist" comment="0721">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/androidTest/java/com/koreait/recylerview/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/java/com/koreait/recylerview/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/java/com/koreait/recylerview/MainAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/java/com/koreait/recylerview/MainData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/layout/item_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/app/src/test/java/com/koreait/recylerview/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecylerView/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/koreait/customnavi/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/koreait/customnavi/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\563\.android\avd\Pixel_3a_API_30_x86.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vcr6exSTvgoSonbKaxgLhorxGc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Korea202102_android/FragmentApp" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -40,7 +130,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="CustomNavi.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -108,6 +198,44 @@
       <option name="presentableId" value="Default" />
       <updated>1626872044711</updated>
     </task>
+    <task id="LOCAL-00001" summary="0721">
+      <created>1626872086166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626872086166</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0721" />
+    <option name="LAST_COMMIT_MESSAGE" value="0721" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3100" y="275" key="AndroidCreateResourceFileDialog" timestamp="1626872197319">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3100" y="275" key="AndroidCreateResourceFileDialog/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1626872197319" />
+    <state x="3300" y="275" key="FileChooserDialogImpl" timestamp="1626913225223">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3300" y="275" key="FileChooserDialogImpl/2560.0.1920.1040/0.0.2560.1400/4480.0.1920.1040@2560.0.1920.1040" timestamp="1626913225223" />
+    <state x="3112" y="253" key="Vcs.Push.Dialog.v2" timestamp="1626872087440">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3112" y="253" key="Vcs.Push.Dialog.v2/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1626872087440" />
   </component>
 </project>
